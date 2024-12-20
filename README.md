@@ -9,8 +9,10 @@ A results-driven **Full Stack Developer** with hands-on experience building scal
 
 ### **🌱 Currently Learning**  
 - **React Native**  
+- **Artificial Intelligence (AI)**  
+- **MERN Stack**  
+- **Python**  
 
----
 
 ### **🔧 Technical Skills**  
 **Languages**: JavaScript, Python, C++, C#  
