@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdullah Javaid</h1>
 <h3 align="center">A Passionate Full Stack Developer from Pakistan</h3>
 ---
-### **🏆 About Me**  
-A results-driven **Full Stack Developer** with hands-on experience building scalable web applications and solving complex technical challenges. Proficient in the **MERN stack**, mobile development, and RESTful APIs, with a knack for creating user-centric designs and optimizing application performance.
+###About Me  
+A results-driven Full Stack Developer with hands-on experience building scalable web applications and solving complex technical challenges. Proficient in the **MERN stack**, mobile development, and RESTful APIs, with a knack for creating user-centric designs and optimizing application performance.
 ---
 
-### **🌱 Currently Learning**  
-- **React Native**  
-
+###Currently Learning  
+- React Native 
 ---
-
 ### **🔧 Technical Skills**  
 **Languages**: JavaScript, Python, C++, C#  
 **Front-End**: React.js, React Native, Redux, Expo, HTML5, CSS3, Tailwind CSS, Bootstrap  
