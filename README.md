@@ -1,14 +1,8 @@
-!
-
 <h1 align="center">Hi 👋, I'm Abdullah Javaid</h1>
 <h3 align="center">A Passionate Full Stack Developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 ---
-
 ### **🏆 About Me**  
 A results-driven **Full Stack Developer** with hands-on experience building scalable web applications and solving complex technical challenges. Proficient in the **MERN stack**, mobile development, and RESTful APIs, with a knack for creating user-centric designs and optimizing application performance.
-
 ---
 
 ### **🌱 Currently Learning**  
