@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abdullah Javaid</h1>
 <h3 align="center">A Passionate Full Stack Developer from Pakistan</h3>
 ---
-About Me  
+**About Me**
 A results-driven Full Stack Developer with hands-on experience building scalable web applications and solving complex technical challenges. Proficient in the **MERN stack**, mobile development, and RESTful APIs, with a knack for creating user-centric designs and optimizing application performance.
 ---
 
-Currently Learning  
+**Currently Learning**  
 - React Native 
 ---
-**🔧 Technical Skills**  
+**Technical Skills**  
 **Languages**: JavaScript, Python, C++, C#  
 **Front-End**: React.js, React Native, Redux, Expo, HTML5, CSS3, Tailwind CSS, Bootstrap  
 **Back-End**: Node.js, Express.js  
@@ -42,32 +42,16 @@ Currently Learning
 - **Coding Hours**: Over 500+ hours of hands-on coding and debugging.  
 - **Projects Completed**: Successfully delivered **5+ major projects** using industry-standard technologies.  
 - **Training**: Conducted MERN stack training sessions for beginners at BitsPhile.  
-
 ---
-
-### **🧠 Problem-Solving Capabilities**  
-- Debugged complex issues in web and mobile applications to ensure optimal performance.  
-- Designed and implemented scalable solutions to meet user requirements.  
-
----
-
 ### **🎓 Certifications**  
 - **NAVTTC**: MERN Stack JavaScript  
 - **Coursera**: Full Stack Development with Django and Python  
 - **Certiport**: JavaScript, HTML  
-
 ---
 
 ### **📜 Education**  
 **Bachelor's in Computer Science**, University of Chakwal (2020–2024)  
-- Courses: Data Structures, Algorithms, Networking, Database Engineering, Software Engineering  
-
----
-
-### **👨‍💻 Open Source Contributions**  
-Link to GitHub: [https://github.com/abdullah7834](https://github.com/abdullah7834)  
-
----
+- Courses: Data Structures, Algorithms, Networking, Database Engineering, Software Engineering.
 
 ### **🔗 Connect with Me**  
 <p align="left">
