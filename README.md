@@ -8,18 +8,19 @@ A results-driven **Full Stack Developer** with hands-on experience building scal
 ---
 
 ### **🌱 Currently Learning**  
-- **React Native**  
-- **Artificial Intelligence (AI)**  
+- **NextJS**  
+- **Graphql , Hasura , Nhost**
+- **Postgress Database**
 - **MERN Stack**  
 - **Python**  
 
 
 ### **🔧 Technical Skills**  
 **Languages**: JavaScript, Python, C++, C#  
-**Front-End**: React.js, React Native, Redux, Expo, HTML5, CSS3, Tailwind CSS, Bootstrap  
+**Front-End**: React.js, React Native, NextJs , Redux, Expo, HTML5, CSS3, Tailwind CSS, Bootstrap  
 **Back-End**: Node.js, Express.js  
 **Databases**: MongoDB, MySQL  
-**Tools & Platforms**: Firebase Authentication, Git, REST APIs  
+**Tools & Platforms**: Firebase Authentication, Git, REST APIs  , Graphql APIs 
 **Other Skills**: Database Design, Software Development Lifecycle, Debugging  
 
 ---
